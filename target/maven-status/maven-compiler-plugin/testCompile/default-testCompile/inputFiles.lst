@@ -1,0 +1,16 @@
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\page_objects\AuthenticationPage.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\page_objects\RegisterPage.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\RunWebSuiteTest.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\step\definitions\AuthenticationStepDefiniton.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\step\definitions\RegisterStepDefinition.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\BasePage.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\ConfigFileReader.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\Constant.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\ExcelUtils.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\RandomValue.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\SelectFromListUtils.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\SeleniumUtils.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\Setup.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\TearDown.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\Validations.java
+C:\Users\oussa\Desktop\QA Analyst\Proservice-Automatisation\Projects\AutomationQA\src\test\java\com\e2etests\automation\utils\Wait.java

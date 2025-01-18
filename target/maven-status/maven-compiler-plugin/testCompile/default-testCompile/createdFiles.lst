@@ -1,0 +1,16 @@
+com\e2etests\automation\page_objects\RegisterPage.class
+com\e2etests\automation\utils\SeleniumUtils.class
+com\e2etests\automation\step\definitions\RegisterStepDefinition.class
+com\e2etests\automation\step\definitions\AuthenticationStepDefiniton.class
+com\e2etests\automation\utils\ExcelUtils.class
+com\e2etests\automation\utils\BasePage.class
+com\e2etests\automation\utils\ConfigFileReader.class
+com\e2etests\automation\utils\TearDown.class
+com\e2etests\automation\utils\Validations.class
+com\e2etests\automation\page_objects\AuthenticationPage.class
+com\e2etests\automation\utils\RandomValue.class
+com\e2etests\automation\utils\Wait.class
+com\e2etests\automation\RunWebSuiteTest.class
+com\e2etests\automation\utils\Setup.class
+com\e2etests\automation\utils\SelectFromListUtils.class
+com\e2etests\automation\utils\Constant.class
